@@ -3,6 +3,8 @@
     main {
         text-align: left;
         font-size: 12px;
+        border-radius: 0px;
+        margin: 0px;
     }
 }
 
